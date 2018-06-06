@@ -25,7 +25,7 @@ SECRET_KEY = '+e8t!j4=0nh@r1cswibr=nbwtin!0obm2)ca)a+5wd#3d$*t$v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'integro\aitova.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'integro\aitova.pythonanywhere.com', 'aitova.pythonanywhere.com']
 
 
 # Application definition
